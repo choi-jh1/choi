@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+.mainTable
+font-size: 15px;
+
+body
+font-family: 'Arial', sans-serif;
+
+.mainTable thead th
+background-color: #f9967a;
+padding: 12px 8px;
+border-bottom: 2px solid #ddd;
+border-left: none;
+border-right: none;
+
+th, td {
+	border: 1px solid black;
+	
+	font-size: 15px;
+	
+	글목록
+	border: 1px solid black;
+	    padding: 5px;
+	    border-collapse: collapse;
