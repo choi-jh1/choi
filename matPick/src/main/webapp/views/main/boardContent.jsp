@@ -169,22 +169,6 @@
       color: #555;
     }
 
-    .content-card li strong {
-      flex: 1;
-      color: #222;
-      word-break: break-word;
-    }
-
-    .post-content {
-      flex: 1;
-      color: #333;
-      line-height: 1.6;
-      white-space: pre-line;
-      padding: 10px;
-      height:500px;
-      margin-left: 5px;
-      overflow-y: auto;
-
   </style>
 </head>
 
