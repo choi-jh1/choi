@@ -92,7 +92,7 @@
     .ask-done { color: green; font-weight: bold; }
  	
  	adQna td {
- 		color: black; 
+ 		color: blue; 
    	  	text-decoration: none;
  	}
 	</style>
