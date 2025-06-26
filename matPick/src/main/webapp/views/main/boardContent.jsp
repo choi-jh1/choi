@@ -184,24 +184,7 @@
       height:500px;
       margin-left: 5px;
       overflow-y: auto;
-    }
 
-    .button-group {
-      display: flex;
-      justify-content: center;
-      gap: 10px;
-      margin-top: 20px;
-    }
-
-    .button-group button {
-      padding: 10px 20px;
-      background-color: #f9967a;
-      color: black;
-      border: none;
-      border-radius: 6px;
-      font-size: 14px;
-      cursor: pointer;
-    }
   </style>
 </head>
 
